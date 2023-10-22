@@ -3,3 +3,5 @@
 
 Run `streamlit run streamlit_app.py` on the terminal to get started !
 See the required libraries in `requirements.txt`
+
+Streamlit app available on `https://yohanfaj-datavz-2023-efrei.streamlit.app/`
